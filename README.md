@@ -1,4 +1,4 @@
-This file KBBI_EN_v0.42.zip is KBBI translated to English for Yomitan.
+This file KBBI_EN_v0.42.zip is KBBI translated to English for Yomitan. (still v0 because not peer-reviewed)
 
 How to use:
 1. Install Yomitan on your browser
