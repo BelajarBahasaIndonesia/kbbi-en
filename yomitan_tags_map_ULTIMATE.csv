@@ -1,0 +1,258 @@
+tag,tag_rename,type,color
+Nomina,Nomina,partOfSpeech,#3386BF
+Verba,Verba,partOfSpeech,#C25C1E
+Adjektiva,Adjektiva,partOfSpeech,#179472
+Adverbia,Adverbia,partOfSpeech,#D9A14A
+Partikel,Partikel,partOfSpeech,#6ABAE8
+Numeralia,Numeralia,partOfSpeech,#F5C710
+Pronomina,Pronomina,partOfSpeech,#C276A6
+kiasan,Kiasan,default,#6F4BC3
+Cakapan,Cakapan,default,#F25AA6
+prakategorial,Prakategorial,default,#8C9D9D
+akronim,Akronim,default,#0E7C13
+Arkais,Arkais,default,#D92626
+singkatan,Singkatan,default,#7BAA2E
+Kimia,Kimia,default,#626273
+Jawa,Jawa,default,#626273
+Kedokteran dan Fisiologi,Kedokteran dan Fisiologi,default,#626273
+Psikologi,Psikologi,default,#626273
+Biologi,Biologi,default,#626273
+Linguistik,Linguistik,default,#626273
+Ungkapan,Ungkapan,default,#626273
+Olahraga,Olahraga,default,#626273
+Klasik,Klasik,default,#626273
+Minangkabau,Minangkabau,default,#626273
+Arab,Arab,default,#626273
+Komputer,Komputer,default,#626273
+Sunda,Sunda,default,#626273
+Fisika,Fisika,default,#626273
+Hukum,Hukum,default,#626273
+Kesenian,Kesenian,default,#626273
+Meteorologi,Meteorologi,default,#626273
+Botani,Botani,default,#626273
+Ekonomi dan Keuangan,Ekonomi dan Keuangan,default,#626273
+Melayu Jakarta,Melayu Jakarta,default,#626273
+-,-,default,#626273
+Agama Islam,Agama Islam,default,#626273
+Geografi dan Geologi,Geografi dan Geologi,default,#626273
+Hidrometeorologi,Hidrometeorologi,default,#626273
+Matematika,Matematika,default,#626273
+Musik,Musik,default,#626273
+Tata Busana,Tata Busana,default,#626273
+Latin,Latin,default,#626273
+Batak,Batak,default,#626273
+Pelayaran,Pelayaran,default,#626273
+Sastra,Sastra,default,#626273
+Ilmu Gizi:,Ilmu Gizi,default,#626273
+Madura,Madura,default,#626273
+Bali,Bali,default,#626273
+Ilmu Komunikasi,Ilmu Komunikasi,default,#626273
+Inggris,Inggris,default,#626273
+Zoologi,Zoologi,default,#626273
+kependekan,Kependekan,default,#626273
+Anatomi,Anatomi,default,#626273
+Tata Boga,Tata Boga,default,#626273
+Melayu Riau,Melayu Riau,default,#626273
+Agama Katolik,Agama Katolik,default,#626273
+Prancis,Prancis,default,#626273
+Gayo,Gayo,default,#626273
+Pertanian,Pertanian,default,#626273
+Astronomi,Astronomi,default,#626273
+Belanda,Belanda,default,#626273
+Politik dan Pemerintahan,Politik dan Pemerintahan,default,#626273
+Aceh,Aceh,default,#626273
+Peternakan,Peternakan,default,#626273
+Antropologi,Antropologi,default,#626273
+Kemiliteran,Kemiliteran,default,#626273
+Gorontalo,Gorontalo,default,#626273
+Agama Kristen,Agama Kristen,default,#626273
+Ilmu Tanah,Ilmu Tanah,default,#626273
+Banjar,Banjar,default,#626273
+Cina,Cina,default,#626273
+Sanskerta,Sanskerta,default,#626273
+Perhotelan:,Perhotelan,default,#626273
+Teknik,Teknik,default,#626273
+Manajemen,Manajemen,default,#626273
+Melayu Jambi,Melayu Jambi,default,#626273
+Keuangan,Keuangan,default,#626273
+Dayak,Dayak,default,#626273
+Elektronika,Elektronika,default,#626273
+Melayu Medan,Melayu Medan,default,#626273
+Grafika,Grafika,default,#626273
+Jepang,Jepang,default,#626273
+Farmasi dan Farmakologi,Farmasi dan Farmakologi,default,#626273
+Perdagangan,Perdagangan,default,#626273
+Agama Hindu,Agama Hindu,default,#626273
+Kasar,Kasar,default,#626273
+Muna,Muna,default,#626273
+Arkeologi,Arkeologi,default,#626273
+Kehutanan,Kehutanan,default,#626273
+Pendidikan,Pendidikan,default,#626273
+Perfilman,Perfilman,default,#626273
+Perikanan,Perikanan,default,#626273
+Bugis,Bugis,default,#626273
+Kedirgantaraan,Kedirgantaraan,default,#626273
+Wolio,Wolio,default,#626273
+Mineralogi,Mineralogi,default,#626273
+Petrologi dan Migas,Petrologi dan Migas,default,#626273
+Tolaki,Tolaki,default,#626273
+Italia,Italia,default,#626273
+Melayu Belitung,Melayu Belitung,default,#626273
+Statistik,Statistik,default,#626273
+Administrasi dan Kepegawaian,Administrasi dan Kepegawaian,default,#626273
+Using,Using,default,#626273
+Agama Buddha,Agama Buddha,default,#626273
+Perkapalan,Perkapalan,default,#626273
+Alas,Alas,default,#626273
+Filologi,Filologi,default,#626273
+Sangir,Sangir,default,#626273
+Melayu Ambon,Melayu Ambon,default,#626273
+Benuaq,Benuaq,default,#626273
+Melayu Kalimantan,Melayu Kalimantan,default,#626273
+Pramuka,Pramuka,default,#626273
+Sosiologi,Sosiologi,default,#626273
+Kaili,Kaili,default,#626273
+Kur,Kur,default,#626273
+Palembang,Palembang,default,#626273
+Sasak,Sasak,default,#626273
+Demografi,Demografi,default,#626273
+Muyu,Muyu,default,#626273
+Hidrologi,Hidrologi,default,#626273
+Arsitektur,Arsitektur,default,#626273
+Jerman,Jerman,default,#626273
+Lingkungan,Lingkungan,default,#626273
+Nias,Nias,default,#626273
+Toraja,Toraja,default,#626273
+Oseanografi,Oseanografi,default,#626273
+Dani,Dani,default,#626273
+Hormat,Hormat,default,#626273
+Minahasa,Minahasa,default,#626273
+Lampung,Lampung,default,#626273
+Melayu Manado,Melayu Manado,default,#626273
+Penerbangan,Penerbangan,default,#626273
+Filsafat,Filsafat,default,#626273
+Makassar,Makassar,default,#626273
+Hitu,Hitu,default,#626273
+Tasawuf,Tasawuf,default,#626273
+Sumbawa,Sumbawa,default,#626273
+Papua,Papua,default,#626273
+Kulisusu,Kulisusu,default,#626273
+Melayu Malaysia,Melayu Malaysia,default,#626273
+Ilmu Pangan,Ilmu Pangan,default,#626273
+Spanyol,Spanyol,default,#626273
+Mandar,Mandar,default,#626273
+Melayu Kep. Riau:,Melayu Kep. Riau,default,#626273
+Minahasa Tonsawang,Minahasa Tonsawang,default,#626273
+Serua,Serua,default,#626273
+Alune,Alune,default,#626273
+Mekanika,Mekanika,default,#626273
+Culambacu,Culambacu,default,#626273
+Karey,Karey,default,#626273
+Astrologi,Astrologi,default,#626273
+Bahau,Bahau,default,#626273
+Berik,Berik,default,#626273
+Bima,Bima,default,#626273
+Metalurgi,Metalurgi,default,#626273
+Mikologi,Mikologi,default,#626273
+Bacan,Bacan,default,#626273
+Kawi,Kawi,default,#626273
+Korea:,Korea,default,#626273
+Minahasa Tonsea,Minahasa Tonsea,default,#626273
+Putuk,Putuk,default,#626273
+Sentani,Sentani,default,#626273
+Sahu,Sahu,default,#626273
+Tobelo,Tobelo,default,#626273
+Tombulu,Tombulu,default,#626273
+Ilmu Perpustakaan dan Dokumentasi,Ilmu Perpustakaan dan Dokumentasi,default,#626273
+Toulour,Toulour,default,#626273
+Abrap,Abrap,default,#626273
+Awyu,Awyu,default,#626273
+Bolaang Mongondow,Bolaang Mongondow,default,#626273
+Bugis-Makassar,Bugis-Makassar,default,#626273
+Ekologi,Ekologi,default,#626273
+Fotografi,Fotografi,default,#626273
+Kimaam,Kimaam,default,#626273
+Pulo,Pulo,default,#626273
+Seluwarsa,Seluwarsa,default,#626273
+Basemah,Basemah,default,#626273
+Boing,Boing,default,#626273
+Luhu,Luhu,default,#626273
+Makeang Timur,Makeang Timur,default,#626273
+Manggarai,Manggarai,default,#626273
+Otomotif,Otomotif,default,#626273
+Kapuas Hulu,Kapuas Hulu,default,#626273
+Kesehatan,Kesehatan,default,#626273
+Batuley,Batuley,default,#626273
+Biak,Biak,default,#626273
+Kamoro,Kamoro,default,#626273
+Kei,Kei,default,#626273
+Kenyah,Kenyah,default,#626273
+Komering,Komering,default,#626273
+Kulawi,Kulawi,default,#626273
+Parsi,Parsi,default,#626273
+Perhubungan,Perhubungan,default,#626273
+Talaud,Talaud,default,#626273
+Waropen,Waropen,default,#626273
+Asmat,Asmat,default,#626273
+Fakfak,Fakfak,default,#626273
+Moronene,Moronene,default,#626273
+Perindustrian dan Kerajinan,Perindustrian dan Kerajinan,default,#626273
+Sorong,Sorong,default,#626273
+Tunjung,Tunjung,default,#626273
+Turki,Turki,default,#626273
+Bakteriologi,Bakteriologi,default,#626273
+Elnama,Elnama,default,#626273
+Ibrani,Ibrani,default,#626273
+Kola,Kola,default,#626273
+Massenrengpulu,Massenrengpulu,default,#626273
+Rusia,Rusia,default,#626273
+Seram,Seram,default,#626273
+Sula,Sula,default,#626273
+Wakatobi,Wakatobi,default,#626273
+Wamena,Wamena,default,#626273
+Ekari,Ekari,default,#626273
+Entomologi,Entomologi,default,#626273
+Geofisika,Geofisika,default,#626273
+India,India,default,#626273
+Kamang,Kamang,default,#626273
+Mimika,Mimika,default,#626273
+Modole,Modole,default,#626273
+Nanoteknologi,Nanoteknologi,default,#626273
+Pamona,Pamona,default,#626273
+Portugis,Portugis,default,#626273
+Sabu,Sabu,default,#626273
+Sekayu,Sekayu,default,#626273
+Yalahatan,Yalahatan,default,#626273
+Abui,Abui,default,#626273
+Mentawai,Mentawai,default,#626273
+Passer,Passer,default,#626273
+Petapa,Petapa,default,#626273
+Sumba:,Sumba,default,#626273
+Telekomunikasi,Telekomunikasi,default,#626273
+Ternate,Ternate,default,#626273
+Amungkal,Amungkal,default,#626273
+Baun,Baun,default,#626273
+Bauzi,Bauzi,default,#626273
+Bian Marind Deg,Bian Marind Deg,default,#626273
+Bunak,Bunak,default,#626273
+Ciacia,Ciacia,default,#626273
+Damal,Damal,default,#626273
+Denmark,Denmark,default,#626273
+Gane,Gane,default,#626273
+Hawaii,Hawaii,default,#626273
+Kaureh,Kaureh,default,#626273
+Lematang,Lematang,default,#626273
+Lengkayap,Lengkayap,default,#626273
+Marlasi,Marlasi,default,#626273
+Melayu Kupang,Melayu Kupang,default,#626273
+Moa,Moa,default,#626273
+Norwegia,Norwegia,default,#626273
+Oirata,Oirata,default,#626273
+Ormu,Ormu,default,#626273
+Rampi,Rampi,default,#626273
+Tata Rias:,Tata Rias,default,#626273
+Thai,Thai,default,#626273
+Tobati,Tobati,default,#626273
+Transportasi:,Transportasi,default,#626273
+Tswana,Tswana,default,#626273
+Wandamen,Wandamen,default,#626273
