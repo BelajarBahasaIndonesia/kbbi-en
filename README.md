@@ -1,3 +1,6 @@
+TECH SUPPORT, CRITICISM, IMPROVEMENTS SUGGESTIONS ETC
+https://discord.gg/9mN2RajgeF
+
 This file KBBI_EN_v0.42.zip is KBBI translated to English for Yomitan.
 
 How to use:
